@@ -23,6 +23,7 @@
 #include "NB.h"
 #include "GPRS.h"
 #include "NBClient.h"
+#include "NBServer.h"
 #include "NBModem.h"
 #include "NBScanner.h"
 #include "NBPIN.h"
