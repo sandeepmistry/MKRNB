@@ -23,9 +23,11 @@ script:
   - buildExampleSketch GPRSUdpNtpClient
   - buildExampleSketch NBSSLWebClient
   - buildExampleSketch NBWebClient
+  - buildExampleSketch NBWebServer
   - buildExampleToolsSketch ChooseRadioAccessTechnology
   - buildExampleToolsSketch NBScanNetworks
   - buildExampleToolsSketch PinManagement
   - buildExampleToolsSketch SerialSARAPassthrough
   - buildExampleToolsSketch TestGPRS
   - buildExampleToolsSketch TestModem
+  - buildExampleToolsSketch TestWebServer
